@@ -19,4 +19,12 @@ Use it to make something cool, have fun, and share what you've learned with othe
 
 body {
   background-color: rgb(194, 235, 235);
+  width: 100vw;
+  overflow-wrap: break-word;
+  overflow-x: hidden;
+}
+
+img {
+  height: auto;
+  width: 100%;
 }

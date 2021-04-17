@@ -10,7 +10,10 @@
 
 
     
-        <footer>Some footer here...</footer>
+        <footer>
+            <pre>Footer here</pre>
+        
+        </footer>
     </div>
 </div>
 

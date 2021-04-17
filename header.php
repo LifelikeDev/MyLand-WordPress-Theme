@@ -35,5 +35,5 @@ Header Template
         </header>
 
         <div class="site-content">
-        <p>Some header paragraph</p>
+        <pre>Header here</pre>
        
